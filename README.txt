@@ -10,7 +10,7 @@ Steps:
 
 1. Make sure you clone the repo locally.
 
-git clone https://bitbucket.org/ananthkannan/myawesomeangularapprepo
+git clone https://github.com/NaveenReddy0427/k8s-deployemt.git
 
 2. once cloned, navigate to repo folder
 cd ~/myawesomeangularapprepo/MyAwesomeApp/
